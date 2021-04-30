@@ -1,0 +1,18 @@
+{
+    "name": "jugid/TW",
+    "description": "Helper to write data on Terminal with PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jugid",
+            "email": "gidjulien@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TW\\": "src"
+        }
+    }
+}
